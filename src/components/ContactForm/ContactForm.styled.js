@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export const StyledForm = styled(Form)`
 display: flex;
 flex-direction:column;
-max-width: 375px;
+width: 375px;
 border-radius: 4px;
 padding: 30px 12px;
 justify-content: start;
