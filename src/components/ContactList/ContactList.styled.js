@@ -5,7 +5,7 @@ display: flex;
 flex-direction:column;
 align-items: center;
 gap: 20px;
-width: 400px;
+max-width: 375px;
 margin-top:30px;
 `;
 
